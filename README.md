@@ -31,7 +31,7 @@ To run this application on your own machine, please follow these steps:
 
 **1. Clone the Repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AI-Salary-Predictor-with-Explainable-XAI.git](https://github.com/YOUR_USERNAME/AI-Salary-Predictor-with-Explainable-XAI.git)
+git clone [https://github.com/RAKSHEDHA/AI-Salary-Predictor-with-Explainable-XAI.git](https://github.com/RAKSHEDHA/AI-Salary-Predictor-with-Explainable-XAI.git)
 ```
 
 **2. Navigate into the Project Directory:**
