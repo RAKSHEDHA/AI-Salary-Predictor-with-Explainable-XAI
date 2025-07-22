@@ -14,6 +14,12 @@ The application is built with Streamlit and includes advanced features such as m
 * **Downloadable PDF Reports:** Generates a professional, multi-page PDF report of the complete analysis with a single click.
 * **Currency Conversion:** Displays all financial results in Indian Rupees (₹).
 
+##  notebooks Model Training & Analysis
+
+The entire process of data cleaning, model training, evaluation, and SHAP analysis is documented in the Jupyter Notebook located in the `analysis` folder.
+
+[**Click here to view the notebook: `analysis/Model_Training_and_Analysis.ipynb`**](analysis/Model_Training_and_Analysis.ipynb)
+
 ## 🛠️ Technology Stack & Libraries
 
 * **Language:** Python
@@ -58,4 +64,7 @@ The application will then open automatically in your web browser.
 ├── salary_model.pkl        # The pre-trained Gradient Boosting model
 ├── model_columns.pkl       # The columns the model was trained on
 ├── Salary Data.csv         # The original dataset used for training and analysis
-└── requirements.txt        # A list of all required Python libraries
+├── requirements.txt        # A list of all required Python libraries
+└── analysis/
+    └── Model_Training_and_Analysis.ipynb  # Notebook with all analysis and training steps
+
