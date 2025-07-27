@@ -118,7 +118,24 @@ AI-Salary-Predictor-with-Explainable-XAI/
       - Gender
       - Education Level (One-Hot Encoded)
       - Job Title (One-Hot Encoded)
-  - **Complete Analysis:** The entire data science process, including data cleaning, feature engineering, model training, performance evaluation (R² score, MAE, etc.), and SHAP analysis, is documented in the **[`analysis/Model_Training_and_Analysis.ipynb`](https://www.google.com/search?q=%5Bhttps://github.com/RAKSHEDHA/AI-Salary-Predictor-with-Explainable-XAI/blob/main/analysis/Model_Training_and_Analysis.ipynb%5D\(https://github.com/RAKSHEDHA/AI-Salary-Predictor-with-Explainable-XAI/blob/main/analysis/Model_Training_and_Analysis.ipynb\))** notebook.
+  - Running the Analysis Notebook
+The entire data science process, including data cleaning, feature engineering, model training, performance evaluation (R² score, MAE, etc.), and SHAP analysis, is documented in the analysis/Model_Training_and_Analysis.ipynb notebook.
+
+You can run this notebook in two ways:
+
+1. Using Google Colab (Recommended for ease of use)
+
+Click the "Open in Colab" badge above to launch the notebook directly in Google Colab.
+
+In the Colab environment, use the file browser on the left to upload the Salary Data.csv file from this repository.
+
+You can now run each cell of the notebook sequentially to reproduce the analysis.
+
+2. Locally with Jupyter Notebook
+
+If you have Jupyter Notebook or JupyterLab installed locally (included with packages like Anaconda), you can navigate to the analysis directory and open the .ipynb file to run it.
+
+
 
 ## 🔮 Future Improvements
 
