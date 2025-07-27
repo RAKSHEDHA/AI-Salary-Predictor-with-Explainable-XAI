@@ -24,7 +24,7 @@ This project is designed to demystify salary expectations by providing data-driv
 ## ✨ Key Features
 
   - **💵 Salary Prediction:** Uses a pre-trained Gradient Boosting model to estimate salaries in Indian Rupees (INR).
-  - **📊 Explainable Predictions:** Integrates a **[SHAP Force Plot](https://www.google.com/search?q=https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/force.html)** to show the positive (blue) and negative (red) impacts of each feature on the predicted salary.
+  - **📊 Explainable Predictions:** Integrates a SHAP Force plot to show the positive (blue) and negative (red) impacts of each feature on the predicted salary.
   - **🔬 What-If Analysis:** An interactive line chart allows users to see how their predicted salary changes as a single factor (like Age or Experience) varies, while all other inputs are held constant.
   - **📈 Peer Comparison:** Compares the user's predicted salary against the average for their job title and provides a percentile rank, offering valuable market context.
   - **📄 PDF Report Generation:** Users can download a detailed, professionally formatted PDF report containing their input details, prediction insights, and the SHAP explanation plot for offline use.
